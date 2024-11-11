@@ -1,5 +1,4 @@
 # Supervised-Learning-Classification
-- Project delivered in November 2021
 - Repository includes two files:
   - Jupyter notebook with Python code written for data analysis and model building
   - CSV file includes data imported into notebook
